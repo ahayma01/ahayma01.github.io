@@ -1,5 +1,20 @@
-<!DOCTYPE css>
-
 body {
-	background-color: eggshell;
+	background-color: FloralWhite;
+	font-family: Palatino;
+	font-size: 1em;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Trebuchet MS";
+}
+
+#topbar {
+	text-align: center;
+	font-style: italic;
+	font-size: .8em;
+}
+
+span.em {
+	font-style: italic;
 }
