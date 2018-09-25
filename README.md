@@ -1,0 +1,9 @@
+As far as I am aware, I've met all the technical specifications of this assignment, and did not have trouble doing so. There are three pages (index, bio, and resume), and each contains relevant content. The resume page also makes use of unordered lists, and throughout the document I was careful to avoid using styling elements in HTML.
+
+There is one CSS document, and I'm unsure as to whether or not this is the best practice for future projects. While there are many things in common across all three pages (i.e., I wanted the top links to have the same formatting across all three pages), I'm not sure if it would have been better to have three independent CSS files for each page, with repeated rules in each, or if it is better to have one and then create more stylesheets as needed for individual pages.
+
+In the CSS, I was unable to figure out how to change the spacing between paragraphs and line breaks; this is a really minor thing, but it's been irritating me. I am also unsure if the favicon I put into each HTML document is showing up in the browser - my github.io seems to use it or drop it at will, which probably means I did something wrong when using the image or link tag.
+
+I worked with Jonah Feldman (not in this course, but still a CS TA) to figure out some of my initial issues with git. The tl;dr was that I forgot to do git init in my local repository for this assignment, and as I tried to work through the problem I just dug myself deeper and deeper into a mysterious hole. Jonah helped me to troubleshoot, and, when fixing the problem proved a bit involved, made sure when I deleted the repository and started over I used git init, git add, and git commit correctly.
+
+This project took me roughly five to six hours to complete, including time spent with Jonah figuring out what I needed to do in order to commit things in git.
