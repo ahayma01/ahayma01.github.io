@@ -4,12 +4,17 @@ body {
 	font-size: 1em;
 }
 
+a:link {
+	color: #8497b2;
+}
+
+a:visited {
+	color: #7f7d78;
+}
+
 h1 {
 	text-align: center;
 	font-family: "Trebuchet MS";
-}
-p {
-	line-height: 20%;
 }
 
 #topbar {
@@ -25,4 +30,12 @@ h3.subsec {
 
 span.em {
 	font-style: italic;
+}
+
+img#biopic {
+	width: 25%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
